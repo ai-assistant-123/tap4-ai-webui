@@ -25,7 +25,7 @@
 
 <a href="https://www.buymeacoffee.com/tap4ai0o" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-如果你对项目有兴趣，欢迎扫描二维码加微信群沟通： ![tap4-ai-wx-group](./public/images/640.png)
+如果你对项目有兴趣，欢迎扫描二维码加微信群沟通： ![tap4-ai-wx-group](./public/images/640.jpg)
 
 ## 快速开始
 
@@ -54,7 +54,9 @@ git clone https://github.com/6677-ai/tap4-ai-webui.git
 [https://supabase.com](https://supabase.com)
 
 #### （3）设置环境变量
+
 - 在根目录下，创建 `.env.local` 文件，填入具体数值，例子如下：
+
 ```sh
 # 你的域名
 NEXT_PUBLIC_SITE_URL="https://www.tap4.ai"
@@ -140,16 +142,23 @@ lib/data.ts -> detailList
 
 Tattao AI Design是为纹身爱好者设计的纹身ai生成器。如果您对此感兴趣，请访问 [Tattoo AI Design](https://tattooai.design)
 
-### Anime Girl Studio -- AI Anime Girl Generator and Chat
+## 赞助列表
+
+### Anime Girl Studio -- AI Anime Girl Chat & Generator
 
 Anime Girl Studio是AI anime girl生成器和聊天产品。您可以生成您喜欢的角色并与AI anime girl聊天，请访问
 [Anime Girl Studio](https://animegirl.studio)
+
+### Best AI Girl Friend -- Best AI Girl Chat & Generator
+
+Best AI Girl Friend生成器和聊天产品。您可以生成您喜欢的角色并与AI girl聊天，请访问
+[Best AI Girl Friend](https://aigirl.best)
 
 ## 其他开源项目
 
 ### 网站内容爬虫代码
 
-访问：[6677-ai/tap4-ai-scraper](https://github.com/6677-ai/tap4-ai-scraper)
+访问：: [6677-ai/tap4-ai-crawler](https://github.com/6677-ai/tap4-ai-crawler), 即将上线
 
 ## 许可证
 
